@@ -1,5 +1,6 @@
 body {
   background-color: black;
   background-image: url("https://images2.alphacoders.com/923/thumb-1920-923564.png");
+  background-size: cover;
   background-repeat: no-repeat;
 }
