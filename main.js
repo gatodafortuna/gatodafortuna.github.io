@@ -98,5 +98,6 @@ $(document).on("click","#btn8",function(){
 		var total = Number(gems) + (Number(random) - (Number(min) - 1))
 		$("input[name=gems]").val(total);
 		$("#660").text("8 : Roll 660 a 888 = " + random);
+		$("#btn8").attr("id", "btn9");
 	};
 });
