@@ -117,5 +117,5 @@ function myFunction() {
         $("input").val(gems);
         frequency = 0;
     };
-    document.getElementById("obtained").innerHTML = "You obtained " + Number(obtained) + " advanced gems";
+    document.getElementById("obtained").innerHTML = "Você obteve " + Number(obtained) + " gemas avançadas";
 };
